@@ -4,9 +4,6 @@
 
 *Modern, responsive portfolio showcasing 4+ years of web development and design expertise*
 
-## 🚀 Live Demo
-**[View Live Portfolio](https://hamzasawy.github.io/portfolio/)**
-
 ## 📋 About Me
 
 I'm **Hamza Sawy**, a passionate Full Stack Developer & UI/UX Designer based in Istanbul ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
@@ -37,14 +34,13 @@ Git · GitHub · VS Code · Chrome DevTools · Unity · Web Performance Optimiza
 
 ## 📊 Skill Levels
 
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| **HTML/CSS** | 75% | 4+ years |
-| **JavaScript** | 65% | 3+ years |
-| **WordPress** | 70% | 3+ years |
-| **Adobe Creative Suite** | 80% | 4+ years |
-| **React.js** | 50% | 1+ years |
-| **PHP/MySQL** | 70% | 3+ years |
+| Skill | Experience |
+|-------|------------|
+| **Next.js**  | 1+ years |
+| **React.js**  | 1+ years |
+| **WordPress** | 3+ years |
+| **HTML/CSS/JS** | 4+ years |
+| **PHP/MySQL** | 3+ years |
 
 ## 💼 Professional Experience
 
@@ -98,7 +94,6 @@ Git · GitHub · VS Code · Chrome DevTools · Unity · Web Performance Optimiza
 *WordPress · CSS · JavaScript · PHP*
 - Complete website development with photography
 - Branch management and booking system
-- **[Live Demo](https://www.thekatil.com/)**
 
 #### **OSK Capital Business Consulting**
 *WordPress · CSS · JavaScript*
@@ -118,13 +113,11 @@ Git · GitHub · VS Code · Chrome DevTools · Unity · Web Performance Optimiza
 *WordPress · CSS · JavaScript · PHP*
 - Beauty blog with interactive design
 - SEO optimization and performance tracking
-- **[Live Demo](https://blog.vanititi.com/)**
 
 #### **TurkishFurniture Blog**
 *WordPress · CSS · JavaScript · PHP*
 - Furniture industry blog platform
 - Content management and SEO implementation
-- **[Live Demo](https://turkishfurniture.blog/)**
 
 ### 🎮 Interactive Applications
 
@@ -196,7 +189,6 @@ Git · GitHub · VS Code · Chrome DevTools · Unity · Web Performance Optimiza
 - 💼 **LinkedIn**: [hamza-elsawy-dev](https://www.linkedin.com/in/hamza-elsawy-dev/)
 - 🎨 **Behance**: [hamzaelsawy](https://www.behance.net/hamzaelsawy)
 - 💻 **CodePen**: [hamzyy](https://codepen.io/hamzyy)
-- 📷 **Instagram**: [hamza_sawy](https://www.instagram.com/hamza_sawy/)
 - 🏢 **Location**: Istanbul, Turkey
 
 ## 🌍 Languages
@@ -210,7 +202,7 @@ Git · GitHub · VS Code · Chrome DevTools · Unity · Web Performance Optimiza
 
 - ✅ **50+** Projects Completed
 - ✅ **4+** Years Experience
-- ✅ **100%** Client Satisfaction
+- ✅ **%70>** Client Satisfaction
 - ✅ **15+** Technologies Mastered
 - ✅ **10+** Countries Served
 
